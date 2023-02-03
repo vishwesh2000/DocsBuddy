@@ -1,6 +1,9 @@
 # DocsBuddy-BETA
-Streamlit application to aid early professionals in the field of medicine.
+### *Streamlit application to aid early professionals in the field of medicine.*
 
+**DISCLAIMER:**
+> It is important to note that the AI generated advice should not be solely relied upon and a professional medical consultation is necessary.
+The model is not a final version and can be further improved. It is intended to assist medical professionals with expertise, who can assess the AI generated advice on prescription medication based on input symptoms and decide what to follow.
 
 ## The model is meant to perform the following tasks: 👨‍⚕️🩺
 
@@ -13,7 +16,6 @@ Streamlit application to aid early professionals in the field of medicine.
 **d)** Take location (ex. city, country) as input and search pharmacies in an around that location. (Google APIs used)
  
 **e)** Take medicine names as input and display prices of the medicine with images.  (Google APIs used)
-
 
 ### *To try out the app* - [*Try app now!*](https://huggingface.co/spaces/CobaltZvc/Docs_Buddy)
 
