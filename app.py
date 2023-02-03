@@ -10,7 +10,7 @@ st.title("Hi there!👨‍⚕️🩺")
 st.title("Welcome to *Virtual Diagnosis*")
 st.write("> **This app is meant to assist medical professionals ONLY**")
 
-co = cohere.Client('QV5Gd5mELJPltvQm4kN8EH4ORFycFlun14ulhhSf')
+co = cohere.Client('<Cohere API Key>')
 prompt = st.text_input('What are the symptoms of your patient? (*Try to keep the symptoms meaningful*)')
 prompt_med = st.text_input('Search a medicine here: (*Enter the correct spelling of the medicine*)')
 geolocator = Nominatim(user_agent="geoapiExercises")
@@ -49,7 +49,7 @@ if prompt:
         "engine": "google_shopping",
         "google_domain": "google.com",
         "q": text,
-        "api_key": "5fab2158fd9fa6cb16925fd2ae13dc7d62d369d3b882074a8ab5a1a7225a034c" #"47e0ad25f66753bef13f195a4700f446bde4100454876d5ac6445c3822814b7b"
+        "api_key": "<SerpApi API key>"
         }
 
         search = GoogleSearch(params)
@@ -81,7 +81,7 @@ if prompt:
                 "q": "Pharmacies",
                 "ll": "@" + str(coordinates[0]) + "," + str(coordinates[1]) + ",15.1z",
                 "type": "search",
-                "api_key": "5fab2158fd9fa6cb16925fd2ae13dc7d62d369d3b882074a8ab5a1a7225a034c" #"47e0ad25f66753bef13f195a4700f446bde4100454876d5ac6445c3822814b7b"
+                "api_key": "<SerpApi API key>"
                 }
 
             search = GoogleSearch(params)
@@ -101,7 +101,7 @@ if prompt_med:
     "q": f"{prompt_med} medicine",
     "hl": "en",
     # "gl": "in",
-    "api_key": "5fab2158fd9fa6cb16925fd2ae13dc7d62d369d3b882074a8ab5a1a7225a034c" #"47e0ad25f66753bef13f195a4700f446bde4100454876d5ac6445c3822814b7b"
+    "api_key": "<SerpApi API key>"
     }
 
     search = GoogleSearch(params)
