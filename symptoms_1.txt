@@ -1,0 +1,271 @@
+Head
+Forehead
+Scalp
+Face
+Mouth
+Throat
+Nose
+Ears
+Eyes
+Neck
+Chest
+Stomach
+Back
+Abdomen
+Torso
+Shoulders
+Arms
+Elbows
+Wrists
+Hands
+Fingers
+Hips
+Legs
+Knees
+Ankles
+Feet
+Toes
+Ovaries
+Uterus
+Fallopian tubes
+Vagina
+Testicles
+Penis
+Prostate gland
+Fever
+Cough
+Headache
+Fatigue
+Muscle aches
+Shortness of breath
+Chest pain
+Nausea
+Vomiting
+Diarrhea
+Sore throat
+Runny nose
+Stuffy nose
+Body aches
+Rash
+Joint pain
+Abdominal pain
+Loss of appetite
+Blurred vision
+Dizziness
+Insomnia
+Depression
+Anxiety
+Chest tightness
+Back pain
+Constipation
+Heartburn
+Drowsiness
+Dry mouth
+Sweating
+Tingling or numbness in the limbs
+Tiredness
+Confusion
+Forgetfulness
+Seizures
+Muscle weakness
+Stiff neck
+Tenderness or swelling in the limbs
+Trouble breathing
+Trouble speaking
+Trouble swallowing
+Trouble seeing
+Trouble hearing
+Tremors
+Urinary incontinence
+Urinary frequency
+Weight gain or loss
+Blackouts or fainting
+Bruising easily
+Changes in skin color
+Changes in skin texture
+Changes in skin temperature
+Chills
+Dehydration
+Delirium
+Delusions
+Difficulty concentrating
+Difficulty sleeping
+Difficulty walking
+Disorientation
+Excessive thirst
+Excessive hunger
+Excessive urination
+Eye pain
+Eye redness
+Eye swelling
+Eyelid swelling
+Fatigue or weakness
+Feelings of hopelessness
+Hallucinations
+Hives
+Impotence
+Irregular heartbeat
+Irritability
+Itching
+Lack of coordination
+Lightheadedness
+Loss of balance
+Loss of consciousness
+Loss of motivation
+Menstrual changes
+Mood swings
+Numbness or tingling
+Paleness
+Paranoia
+Poor concentration
+Rapid heartbeat
+Severe headache
+Skin redness
+Sleepiness
+Slow heartbeat
+Speech changes
+Swelling in the limbs
+Unusual thirst
+Abnormal bleeding
+Abnormal discharge
+Abnormal heartbeat
+Abnormal sweating
+Abnormal urine color
+Abnormal urine odor
+Agitation
+Air hunger
+Altered taste
+Altered vision
+Amnesia
+Aphasia
+Appetite changes
+Arrhythmia
+Back pain
+Blind spots
+Bloating
+Blood
+Blood in urine
+Blood pressure changes
+Blue lips or face
+Body odor
+Brittle nails
+Bruising easily
+Chest pain
+Chest tightness
+Choking
+Clumsiness
+Coldness in hands and feet
+Coma
+Confusion
+Convulsions
+Coughing up blood
+Crying easily
+Decreased appetite
+Decreased libido
+Decreased urine output
+Delirium
+Delusions
+Dementia
+Depression
+Derealization
+Diaphoresis
+Difficulty breathing
+Difficulty speaking
+Difficulty swallowing
+Difficulty urinating
+Dilation of pupils
+Disorientation
+Dizziness
+Double vision
+Pain
+Fatigue
+Headache
+Nausea
+Loss of appetite
+Shortness of breath
+Chest pain or pressure
+Dizziness or lightheadedness
+Changes in vision
+Coughing
+Muscle weakness
+Joint pain or swelling
+Skin rash or discoloration
+Changes in bowel or bladder function
+Rapid heartbeat or palpitations
+Fever or chills
+Sweating or night sweats
+Sore throat
+Difficulty swallowing
+Changes in speech or hearing
+cold
+Loss of consciousness
+Seizures
+Memory loss
+Confusion or disorientation
+Loss of coordination or balance
+Numbness or tingling in limbs
+Difficulty sleeping
+Mood swings or irritability
+Difficulty concentrating or retaining information
+Sweating or chills
+Loss of energy or fatigue
+Weight changes
+Difficulty breathing or shortness of breath
+Chest pain or tightness
+Chest pressure or tightness
+Pain or discomfort in the abdomen
+Nausea or vomiting
+Diarrhea
+Headaches
+Rapid or irregular heartbeat
+Difficulty urinating or changes in urine color or odor
+Difficulty with balance or coordination
+Fainting or dizziness
+Swollen or tender limbs
+Trouble speaking or hearing
+Skin discoloration or changes in skin texture
+Blurred vision
+Red or watery eyes
+Hearing loss or ringing in ears
+Stiff neck
+Tremors or muscle twitching
+Difficulty swallowing or chest pressure while eating
+Lack of motivation or interest in activities
+Feelings of hopelessness or despair
+Hallucinations or delusions
+Paranoia or fearfulness
+Excessive thirst or hunger
+Excessive sweating or sweating at night
+Itching or rashes
+Alterations in sense of taste or smell
+Changes in menstrual cycle or sexual function
+Impotence or decreased libido
+Poor concentration or memory loss
+Mood swings or irritability
+Irregular heartbeat or palpitations
+Rapid heartbeat or chest pain
+Difficulty breathing or wheezing
+Coughing up blood or abnormal discharge
+Difficulty urinating
+Bloating or abdominal pain
+Blood in urine or stool
+Changes in blood pressure
+Breathing difficulties or wheezing
+Coughing up blood
+Double vision or blindness
+Easy bruising or bleeding
+Fever or chills
+Heart palpitations or irregular heartbeat
+Loss of consciousness
+Seizures
+Swollen or tender joints
+Tingling or numbness in limbs
+Difficulty speaking or hearing
+Skin rashes or itching
+Weight changes
+Loss of energy or fatigue
+Difficulty swallowing or eating
+Mood swings or depression
+Difficulty sleeping or insomnia
+Alterations in taste or smell
+Irritability or anxiety

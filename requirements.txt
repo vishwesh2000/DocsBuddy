@@ -1,0 +1,6 @@
+cohere
+streamlit
+google-search-results
+requests
+geopy
+Pillow
